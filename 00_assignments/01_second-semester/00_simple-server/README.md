@@ -1,0 +1,1 @@
+- Go to homepage ```→ GET http://localhost:3000/```
