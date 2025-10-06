@@ -127,7 +127,7 @@ Tokens expire after 1 hour.
 ## 🧍 User Endpoints
 
 ### 1️⃣ Register a User
-**POST** `/api/users/register`
+**POST** `/api/users/signup`
 
 **Request Body:**
 ```json
