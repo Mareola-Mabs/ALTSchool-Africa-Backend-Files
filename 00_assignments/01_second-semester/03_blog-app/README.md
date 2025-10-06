@@ -179,7 +179,7 @@ Supports:
 - Searching → author, title, tags  
 - Ordering → read_count, reading_time, timestamp  
 
-### 2️⃣ Get a Single Blog (Public)
+### 2️⃣ Get a Single Blog (Public) (Blog must have been published using the PATCH/:id/state route)
 **GET** `/blogs/:id`
 
 Automatically:
